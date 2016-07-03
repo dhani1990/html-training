@@ -1,7 +1,7 @@
 ### What Are HTML & CSS?
-- HTML, HyperText Markup Language, gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images
+- HTML, HyperText Markup Language, gives content structure , for example, headings, paragraphs, or images
 
-- CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.
+- CSS, or Cascading Style Sheets, is a presentation ,  language created to style the appearance of content—using, for example, fonts or colors.
 
 ### Document structure
 	
@@ -19,12 +19,14 @@
 
 ### Meta tag for responsive
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
 ### Render  site in IE
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    - this will render ie browser to its latest.
 > It forces the browser the render at whatever the most recent version's standards are. Just like using the latest version of jQuery on Google's CDN, this is the most recent, but also can potentially break your code since its not a fixed version.
 [help Link](http://stackoverflow.com/questions/14611264/x-ua-compatible-content-ie-9-ie-8-ie-7-ie-edge)
 
-### html5 for tag support
+### html5 for tag support for older browser.
 <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 
 ### Modernizr for browser detection and its feature
@@ -350,11 +352,13 @@ Good:
     <a href="/ja/pdf" hreflang="ja" rel="alternate" type="application/pdf">Japanese PDF version</a>
     
 ## Important Link
+- [html5 structure outliner ](https://hoyois.github.io/html5outliner/)
 - [schema rich snippets](https://www.youtube.com/watch?v=N2PjWtybDOs)
 - [schema Genrator](http://schema-creator.org/)
 - [W3C Validator](https://validator.w3.org/)
 - [Html5 template Genrator](http://www.initializr.com/)
 - [bootstrap snippets](http://bootsnipp.com/)
+- [css tricks for html5](https://css-tricks.com/snippets/html/)
 
 
 
