@@ -1,7 +1,7 @@
-### What Are HTML & CSS?
+### What is HTML?
 - HTML, HyperText Markup Language, gives content structure , for example, headings, paragraphs, or images
+- we are using HTML5
 
-- CSS, or Cascading Style Sheets, is a presentation ,  language created to style the appearance of content—using, for example, fonts or colors.
 
 ### Document structure
 	
