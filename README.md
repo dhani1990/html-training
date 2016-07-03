@@ -350,11 +350,11 @@ Good:
     <a href="/ja/pdf" hreflang="ja" rel="alternate" type="application/pdf">Japanese PDF version</a>
     
 ## Important Link
-[schema rich snippets](https://www.youtube.com/watch?v=N2PjWtybDOs)
-[schema Genrator](http://schema-creator.org/)
-[W3C Validator](https://validator.w3.org/)
-[Html5 template Genrator](http://www.initializr.com/)
-[bootstrap snippets](http://bootsnipp.com/)
+- [schema rich snippets](https://www.youtube.com/watch?v=N2PjWtybDOs)
+- [schema Genrator](http://schema-creator.org/)
+- [W3C Validator](https://validator.w3.org/)
+- [Html5 template Genrator](http://www.initializr.com/)
+- [bootstrap snippets](http://bootsnipp.com/)
 
 
 
