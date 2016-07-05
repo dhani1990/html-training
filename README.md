@@ -1,3 +1,10 @@
+## Scope/purpose of training.
+- Limit the recurring work html developer.
+- Limit the mistakes.
+- Remove the blame game and work as team.
+- learn Html / Css (its not a rocket science)
+
+
 ### Common mistake in html
 -  Assuming that all the versions of HTML are the same(doctype).
 -  Never forget to close a tag in HTML5 that requires to be closed.
@@ -5,7 +12,7 @@
 -  Not writing Comments for html.
 -  using Same Id for multiple elements
 -  Indenting of code.
--  creating complicated element structure.
+-  creating complicated element structure and css structure.
 -  using table for every section.
 -  using complicated class naming.
 
