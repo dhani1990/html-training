@@ -1,8 +1,8 @@
 ## Scope/purpose of training.
-- Limit the recurring work html developer.
+- Limit the recurring work with html developer.
 - Limit the mistakes.
 - Remove the blame game and work as team.
-- learn Html / Css (its not a rocket science)
+- learn Html / Css
 
 
 ### Common mistake in html
