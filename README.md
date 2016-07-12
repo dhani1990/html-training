@@ -3,6 +3,7 @@
 - Limit the mistakes.
 - Remove the blame game and work as team.
 - learn Html / Css
+- self training (http://www.w3schools.com/html/)
 
 
 ### Common mistake in html
@@ -147,6 +148,23 @@ https://modernizr.com/
     http://www.mysite.com
     http://www.mysite.com/graphics/image.png
     http://www.mysite.com/help/articles/how-do-i-set-up-a-webpage.html
+
+# New Semantic Elements in HTML5
+    <article>
+    <aside>
+    <details>
+    <figcaption>
+    <figure>
+    <footer>
+    <header>
+    <main>
+    <mark>
+    <nav>
+    <section>
+    <summary>
+    <time>
+
+![image](http://www.w3schools.com/html/img_sem_elements.gif)
 
 
 # HTML Best Practices
